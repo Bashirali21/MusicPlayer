@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "789594770612",
+    "project_id": "simplemusicplayer-a58cc",
+    "storage_bucket": "simplemusicplayer-a58cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789594770612:android:1a440d1e6d26cd1c0a1be1",
+        "android_client_info": {
+          "package_name": "com.btomusic.testmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789594770612-4ovi38rukhi3p7sr4la0j5v0qcdqti32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btomusic.testmusicplayer",
+            "certificate_hash": "592eb93dd25ca2ff6e102db0ec9d9fecf4d5d22b"
+          }
+        },
+        {
+          "client_id": "789594770612-i3p2firecdjdbqa222cb4r3tebba1jvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btomusic.testmusicplayer",
+            "certificate_hash": "f39a3ca243502e996f2be8d87b2ec0391f576d60"
+          }
+        },
+        {
+          "client_id": "789594770612-l1vjj627tpfuamefg5gmscs7lsv0ucm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btomusic.testmusicplayer",
+            "certificate_hash": "618febf84962406094633863dfabe6a7e3233ecf"
+          }
+        },
+        {
+          "client_id": "789594770612-qhqcpulcblri4p8h3btvn7jlbc9jpp56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btomusic.testmusicplayer",
+            "certificate_hash": "fb876d509cb80d931ee76f0d6b3ae2e3ea563127"
+          }
+        },
+        {
+          "client_id": "789594770612-7ne8uc0pk4r2t3efute7dt4k8dsvqkkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgO9-8CtVADe8h-49kyrqztnwcKR69-TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789594770612-7ne8uc0pk4r2t3efute7dt4k8dsvqkkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
